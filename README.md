@@ -1,2 +1,3 @@
-# mini-web-1.D-Bobanci
-Ninik, Jardik, Tomik
+# Třebešínská kapela
+Bui/BobojeBobk, Šrámková/ninuskq, Perchuk/Jerrzy058
+
