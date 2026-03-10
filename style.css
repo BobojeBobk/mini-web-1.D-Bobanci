@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     padding: 30px;
-    background-color: #8A0707;
+    background-color: #F58C8C;
 }
 
 
 h1 {
-    color: darkred;
+    color: #823D2A;
     text-align: center;
 }
 p::first-letter {
@@ -67,6 +67,7 @@ footer{
     bottom: 0;
     width: 100%;
 }
+
 
 
 
