@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Něco o nás</h1>
-    <p>Kapela Bobáci přináší syrovou energii, nadhled a hudbu bez zbytečných pravidel. Hrajeme to, co nás baví – po svém, nahlas a naplno.</p>
+    <div class = "header">
+      <header><h1>Něco o nás</h1></header>
+      <p>Kapela Bobáci přináší syrovou energii, nadhled a hudbu bez zbytečných pravidel. Hrajeme to, co nás baví – po svém, nahlas a naplno.</p>
+    </div>
 
 <div class = "nalevo">
-   <h5> František „Frantík“ Kliman – zpěv</h5>
+   <h1> František „Frantík“ Kliman – zpěv</h1>
  <p>Frantík vyrostl v prostředí, kde se nic nezdálo bezpečné,<br>
     a jeho dětství bylo plné hádek a ztrát. Když mu zemřel<br>
     starší bratr, našel útočiště v psaní textů, které nikdo<br>
@@ -20,7 +22,7 @@
     kapelám, ale nikde nenašel domov. Až u Odpadlíků objevil<br>
     lidi, kteří rozumí jeho bolesti i jeho hlasu.</p><br>
 
-<h5>Tomáš „Kimchi“ Bui– kytara</h5>
+<h1>Tomáš „Kimchi“ Bui– kytara</h1>
  <p>Kimchi vyrostl v osamělosti, jeho rodiče se rozvedli,<br>
     když byl malý, a hudba byla jeho jediný spojenec. Na <br>
     kytaru začal hrát, když našel starou rozbitou kytaru na <br>
@@ -33,7 +35,7 @@
 
 </div>
 <div class = "napravo">
-<h5>Jaroslav „Petarda“ Perchuk – basa</h5>
+<h1>Jaroslav „Petarda“ Perchuk – basa</h1>
  <p>Petarda vyrůstal v prostředí, kde peníze byly vzácné a naděje<br>
     ještě vzácnější. Ztratil otce velmi brzy a musel se starat<br>
     o mladší sourozence, zatímco ostatní hráli venku. Basa <br>
@@ -43,7 +45,7 @@
     co se zdálo nemožné. Dnes jeho hluboký a drsný zvuk drží<br>
     kapelu pohromadě.</p><br>
 
-<h5>Nina „Ninuska“ Šrámková– bicí</h5>
+<h1>Nina „Ninuska“ Šrámková– bicí</h1>
 <p>Ninuska vyrostla v prostředí, kde byla často přehlížena a <br>
    zlehčována. Její první bicích soupravu zničila bouře, když <br>
    byla na návštěvě u příbuzných, a ona musela improvizovat na<br>
@@ -57,5 +59,7 @@
 
     
 
+</body>
+</html>
 </body>
 </html>
