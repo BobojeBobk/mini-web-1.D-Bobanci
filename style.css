@@ -7,7 +7,6 @@ body {
 
 h1 {
     color: darkblue;
-    cursor: url("vdej se neco"), auto;
 }
 
 
@@ -43,7 +42,6 @@ button {
     border: none;
     border-radius: 10px;
     font-size: 16px;
-    cursor: wait;
 }
 
 a:link {
@@ -59,7 +57,7 @@ a:hover {
   color: rgb(105, 42, 177); text-decoration: underline;  
 }
 
-button:hover { background-color: rgb(69, 66, 216); cursor: not-allowed;
+button:hover { background-color: rgb(69, 66, 216); cursor:
 }
 
 
@@ -71,4 +69,5 @@ button:active { background-color: rgb(42, 135, 138); transform: scale(1.15666);
 img:active{
     transform: scale(1.5);
 }
+
 
