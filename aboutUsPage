@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="cz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Něco o nás</h1>
+    <p>Kapela Bobáci přináší syrovou energii, nadhled a hudbu bez zbytečných pravidel. Hrajeme to, co nás baví – po svém, nahlas a naplno.</p>
+
+<div class = "nalevo">
+   <h5> František „Frantík“ Kliman – zpěv</h5>
+ <p>Frantík vyrostl v prostředí, kde se nic nezdálo bezpečné,<br>
+    a jeho dětství bylo plné hádek a ztrát. Když mu zemřel<br>
+    starší bratr, našel útočiště v psaní textů, které nikdo<br>
+    kromě něj nečetl. Dlouho se potýkal s depresí a pocitem,<br>
+    že nemá kam patřit. Zkoušel se připojit k několika <br>
+    kapelám, ale nikde nenašel domov. Až u Odpadlíků objevil<br>
+    lidi, kteří rozumí jeho bolesti i jeho hlasu.</p><br>
+
+<h5>Tomáš „Kimchi“ Bui– kytara</h5>
+ <p>Kimchi vyrostl v osamělosti, jeho rodiče se rozvedli,<br>
+    když byl malý, a hudba byla jeho jediný spojenec. Na <br>
+    kytaru začal hrát, když našel starou rozbitou kytaru na <br>
+    ulici a učil se ve tmě svého pokoje. Často přespával u <br>
+    kamarádů nebo spával na lavičkách, jen aby mohl hrát. <br>
+    Lidé mu říkali, že nemá šanci uspět, že hudba není <br>
+    cesta. Přesto vytrval a jeho riffy dnes dávají Odpadlíkům<br>
+    jejich tvrdý zvuk.</p><br>
+</div>
+
+</div>
+<div class = "napravo">
+<h5>Jaroslav „Petarda“ Perchuk – basa</h5>
+ <p>Petarda vyrůstal v prostředí, kde peníze byly vzácné a naděje<br>
+    ještě vzácnější. Ztratil otce velmi brzy a musel se starat<br>
+    o mladší sourozence, zatímco ostatní hráli venku. Basa <br>
+    byla jeho únik – první nástroj, který se mu dostal do rukou,<br>
+    naučil se hrát jen z pozorování a nekonečného tréninku. <br>
+    Často hrál do noci, když ostatní spali, a snil o něčem,<br>
+    co se zdálo nemožné. Dnes jeho hluboký a drsný zvuk drží<br>
+    kapelu pohromadě.</p><br>
+
+<h5>Nina „Ninuska“ Šrámková– bicí</h5>
+<p>Ninuska vyrostla v prostředí, kde byla často přehlížena a <br>
+   zlehčována. Její první bicích soupravu zničila bouře, když <br>
+   byla na návštěvě u příbuzných, a ona musela improvizovat na<br>
+   kýble a staré hrnce. Často byla sama, bez podpory, a hudba<br>
+   byla jediná věc, která jí dávala smysl. Přes všechno <br>
+   zůstala vytrvalá a tvrdá, její rytmus se stal srdcem Odpadlíků.<br>
+   Dnes její energické hraní dává kapele život, který by jinak chyběl.</p><br>
+</div>
+
+
+
+    
+
+</body>
+</html>
