@@ -9,7 +9,10 @@ h1 {
     color: darkblue;
     text-align: center;
 }
-
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-medium;
+}
 
 h2 {
     margin-top: 30px;
@@ -54,6 +57,7 @@ button:active { background-color: rgb(42, 135, 138); transform: scale(1.15666);
 img:active{
     transform: scale(1.5);
 }
+
 
 
 
