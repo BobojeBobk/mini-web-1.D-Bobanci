@@ -42,7 +42,7 @@ button {
 
 
 
-button:hover { background-color: rgb(69, 66, 216); cursor:
+button:hover { background-color: rgb(69, 66, 216);
 }
 
 
@@ -54,6 +54,7 @@ button:active { background-color: rgb(42, 135, 138); transform: scale(1.15666);
 img:active{
     transform: scale(1.5);
 }
+
 
 
 
