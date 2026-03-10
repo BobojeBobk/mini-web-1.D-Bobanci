@@ -7,6 +7,7 @@ body {
 
 h1 {
     color: darkblue;
+    text-align: center;
 }
 
 
@@ -15,13 +16,8 @@ h2 {
     color: #333;
 }
 
-
-a {
-    display: inline-block;
-    margin: 8px 0;
-    font-size: 18px;
-    text-decoration: none;
-    color: blue;
+p{
+    text-align: center;
 }
 
 
@@ -44,18 +40,7 @@ button {
     font-size: 16px;
 }
 
-a:link {
-color: rgb(72, 0, 255)
-}
 
-a:visited {
-color: darkblue   
-} 
-
-
-a:hover {
-  color: rgb(105, 42, 177); text-decoration: underline;  
-}
 
 button:hover { background-color: rgb(69, 66, 216); cursor:
 }
@@ -69,5 +54,6 @@ button:active { background-color: rgb(42, 135, 138); transform: scale(1.15666);
 img:active{
     transform: scale(1.5);
 }
+
 
 
