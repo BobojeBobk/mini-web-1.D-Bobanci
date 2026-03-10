@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     padding: 30px;
-    background-color: #F58C8C;
+    background-color: rgb(230, 92, 92);
 }
 
 
 h1 {
-    color: #823D2A;
+    color: rgb(130, 61, 42);
     text-align: center;
 }
 p::first-letter {
@@ -67,6 +67,7 @@ footer{
     bottom: 0;
     width: 100%;
 }
+
 
 
 
